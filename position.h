@@ -28,6 +28,7 @@ public:
 	void set_y_axis(int y) { y_axis = y; }
 	position relative_position(const position& p);
 	int calculate_tile_difference(const position& p);
+	position get_input_position(int lower_limit, int upper_limit);
 
 	position(const position& p);
 	position(position&& p);
