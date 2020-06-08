@@ -3,4 +3,5 @@ Header files and main for the boardgame project of Object Oriented Programming i
 
 Marks: 
 Code: 25/42
-Report 16/25
+
+Report: 16/25
